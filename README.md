@@ -14,6 +14,8 @@ Python 3 Graph Research Project
 
 Produces following output
 
+![Annotation 2019-06-14 111757](https://user-images.githubusercontent.com/5907956/59498646-1defbc80-8e96-11e9-81bb-805da6a443cf.png)
+
 ## Sources
 
 - lernen.openolat.ch (Resources F. Grüner)
