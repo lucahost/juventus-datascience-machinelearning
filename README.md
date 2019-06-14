@@ -18,6 +18,6 @@ Produces following output
 
 ## Sources
 
-- lernen.openolat.ch (Resources F. Grüner)
+- [Data Science and Machine Learning Course](https://lernen.juvecampus.ch) (Resources F. Grüner)
 - [Wangbarros - Algorithm Week 1](https://github.com/Wangbarros/AlgorithmWeek1)
 - [Python Courses - AT-Module1](http://linzifan.github.io/python_courses/AT-Module1)
