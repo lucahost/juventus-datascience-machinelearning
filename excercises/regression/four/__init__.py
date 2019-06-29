@@ -1,5 +1,6 @@
 from three import compute_in_degrees
 
+
 def in_degree_distribution(digraph):
     indegree = compute_in_degrees(digraph)
     distribution = {}

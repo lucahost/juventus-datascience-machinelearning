@@ -10,4 +10,3 @@ def generate_complete_graph(num_nodes):
         return graph
     else:
         return {}
-
