@@ -2,6 +2,13 @@
 
 Python 3 Graph Research Project
 
+## Table of Contents
+
+- Setup
+- Run
+  - Projects
+- Sources
+
 ## Setup
 
 > Use Python 3.7
@@ -10,12 +17,25 @@ Python 3 Graph Research Project
 
 ## Run
 
-- Execute .\exercises\main.py
+### Decision Trees
 
-Produces following output
+- Execute .\exercises\decision_trees\main.py
 
-![Annotation 2019-06-14 111757](https://user-images.githubusercontent.com/5907956/59498646-1defbc80-8e96-11e9-81bb-805da6a443cf.png)
+### Regression
 
+- Execute .\exercises\regression\main.py
+
+### Skyroute
+
+- Execute .\exercises\decision_trees\main.py
+
+### Twitch
+
+- Execute .\exercises\twitch\data.sql
+- Execute .\exercises\twitch\barchart.sql
+- Execute .\exercises\twitch\linegraph.sql
+- Execute .\exercises\twitch\piechart.sql
+  
 ## Sources
 
 - [Data Science and Machine Learning Course](https://lernen.juvecampus.ch) (Resources F. Grüner)

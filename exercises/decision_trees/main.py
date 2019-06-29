@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
 
-df = pandas.read_csv('C:\\_dev\\source\\git\\githucar.data', header=0)
+df = pandas.read_csv('car.data', header=0)
 df.info()
 
 df = df.replace('vhigh', 4)
